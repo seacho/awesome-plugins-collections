@@ -1,0 +1,3 @@
+[submodule "ghidra/Malimite"]
+	path = ghidra/Malimite
+	url = https://github.com/LaurieWired/Malimite.git
